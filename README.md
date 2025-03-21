@@ -11,14 +11,14 @@ Implementations of research papers I've read, simplified and built from scratch.
 - [x] ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 - [ ] Sigmoid
 - [ ] tanh
-- [ ] Leaky ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] Leaky ReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 - [ ] Softmax
 - [ ] GELU
-- [ ] PReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
-- [ ] eLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] PReLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
+- [x] eLU - [Link](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks)
 
 ### [03] Optimizers
-- [ ] SGD - [Link](https://paperswithcode.com/paper/beating-sgd-learning-svms-in-sublinear-time)
+- [x] SGD - [Link](https://paperswithcode.com/paper/beating-sgd-learning-svms-in-sublinear-time)
 - [ ] Adam
 
 ### [04] Generative Models
