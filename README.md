@@ -2,7 +2,7 @@
 Implementations of research papers I've read, simplified and built from scratch. A hands-on approach to understanding and replicating key ideas in AI/ML.
 
 ### Info
-- I will keep a count and attach research papers as links for the same below
+- Will attach research papers as links for the same below
 
 ### [01] Complex Neural Networks
 - [x] Convolutional Neural Network (CNN) - [Link](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
